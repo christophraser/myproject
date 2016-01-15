@@ -1,0 +1,10 @@
+RAxML_bestTree.InWindow_1000_to_1300.tree
+RAxML_bestTree.InWindow_2000_to_2300.tree
+RAxML_bestTree.InWindow_3000_to_3300.tree
+RAxML_bestTree.InWindow_4000_to_4300.tree
+RAxML_bestTree.InWindow_5000_to_5300.tree
+RAxML_bestTree.InWindow_6800_to_7100.tree
+RAxML_bestTree.InWindow_7100_to_7400.tree
+RAxML_bestTree.InWindow_7800_to_8100.tree
+RAxML_bestTree.InWindow_8100_to_8400.tree
+RAxML_bestTree.InWindow_9620_to_9920.tree
