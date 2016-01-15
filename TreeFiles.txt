@@ -8,3 +8,4 @@ RAxML_bestTree.InWindow_7100_to_7400.tree
 RAxML_bestTree.InWindow_7800_to_8100.tree
 RAxML_bestTree.InWindow_8100_to_8400.tree
 RAxML_bestTree.InWindow_9620_to_9920.tree
+This is an added line
